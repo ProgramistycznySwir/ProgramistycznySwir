@@ -1,3 +1,5 @@
+![alt text](Icon_Deflector_7.jpg)
+
 # Hi there 👋
 
 ### Hi, I'm student at [Bialystok University of Technology](https://pb.edu.pl/en/) and from time to time try to fight C# in struggle to make some games _(with not much success)_.
