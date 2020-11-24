@@ -2,14 +2,14 @@
 
 # Hi there 👋
 
-### Hi, I'm student at [Bialystok University of Technology](https://pb.edu.pl/en/) and from time to time try to fight C# in struggle to make some games _(with not much success)_.
+### I'm student at [Bialystok University of Technology](https://pb.edu.pl/en/) and from time to time try to fight C# in struggle to make some games _(with not much success)_.
 
 By the look of this profile you could clearly say i'm more interested in backend. :/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-###### _Above isn't mine work, i found this [cool generator on internet](https://rahuldkjain.github.io/gh-profile-readme-generator/) :P_
+###### _Right above isn't my work, i found this [cool generator on internet](https://rahuldkjain.github.io/gh-profile-readme-generator/) :P_
 
 Contact:
 - Mail: programistycznyswir@gmail.com
