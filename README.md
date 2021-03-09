@@ -7,7 +7,7 @@
 By the look of this profile you could clearly say i'm more interested in backend. :/
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://develop.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="csharp" width="40" height="40"/> </a>
+<p align="left"> <a href="https://docs.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"> <img src="https://develop.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
