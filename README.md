@@ -17,6 +17,10 @@ Contact:
 - Mail: programistycznyswir@gmail.com
 - Discord: [FreeDOOM#4231](https://discordapp.com/channels/@FreeDOOM/4231/)
 - Nothing else... _(i'm rather bad at maintaining social accounts...)_
+  
+My stats:  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramistycznySwir)](https://github.com/anuraghazra/github-readme-stats)  
+(credit to: https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 <!--
 **ProgramistycznySwir/ProgramistycznySwir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
