@@ -7,11 +7,15 @@
 By the look of this profile you could clearly say i'm more interested in backend. :/
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://docs.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"> <img src="https://develop.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-###### _Right above isn't my work, i found this [cool generator on internet](https://rahuldkjain.github.io/gh-profile-readme-generator/) :P_
+<p align="left">
+  <a href="https://docs.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"> <img src="https://develop.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="csharp" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mkrl/misbrands/a42bdd3c686d7122b778f85090183e7f4eddf685/dotnet.svg" alt="dotnet" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/rust.svg" alt="rust-lang" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/vscode.svg" alt="vs-code" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/react.svg" alt="react-js" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/javascript.svg" alt="js" height="40"/> </a>
+</p>
 
 Contact:
 - Mail: programistycznyswir@gmail.com
