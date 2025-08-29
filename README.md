@@ -78,27 +78,15 @@
 <details>
   <summary><h2>Technologies I also know...</h2></summary>
 
+  Technologies I'm either not proficient in or doesn't want to specialize in them but did some time in them:
   - Some of `C/C++`
   - `MS-SQL` and `SQL-Server`
   - `Angular 2+` (3 years and counting...)
+  - `RxJS` (worst reactivity I've ever seen...)
   - `Docker` and some of `Google Cloud`
   - `Blazor`
   - `Xamarin`
 </details>
-
-<!--
-
-## Languages and Tools:
-
-<p align="left">
-  <a href="https://docs.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"> <img src="https://develop.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="csharp" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mkrl/misbrands/a42bdd3c686d7122b778f85090183e7f4eddf685/dotnet.svg" alt="dotnet" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/rust.svg" alt="rust-lang" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/vscode.svg" alt="vs-code" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/react.svg" alt="react-js" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/javascript.svg" alt="js" height="40"/> </a>
-</p>
 
 <!--
 **ProgramistycznySwir/ProgramistycznySwir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
