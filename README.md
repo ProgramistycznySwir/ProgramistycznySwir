@@ -1,12 +1,17 @@
-![alt text](Icon_Deflector_7.jpg)
-
 # Hi there 👋
+## I'm Daniel - a Fullstack dev who likes making games
+- 🎓 I'm student at [Bialystok University of Technology](https://pb.edu.pl/en/)
+- 💼 Professionally I work as fullstack in ASP.NET and Angular (god save me)
+- 🤝 Big fan of digital accessibility, in the future I want to certificate in WCAG auditing.
+- 👾 From time to time I like making games in [Bevy](https://bevy.org/) and [Godot](https://godotengine.org/), you can check it out on my [gitlab](https://gitlab.com/ProgramistycznySwir_)
 
-### I'm student at [Bialystok University of Technology](https://pb.edu.pl/en/) and from time to time try to fight C# in struggle to make some games _(with not much success)_.
+## 📫 Contact:
+- Mail: <programistycznyswir@gmail.com>
+- Discord: **rzuras**
+- Nothing else... _(i'm rather bad at maintaining social accounts...)_
 
-By the look of this profile you could clearly say i'm more interested in backend. :/
+## Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://docs.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"> <img src="https://develop.spacemacs.org/layers/+lang/csharp/img/csharp.png" alt="csharp" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mkrl/misbrands/a42bdd3c686d7122b778f85090183e7f4eddf685/dotnet.svg" alt="dotnet" height="40"/> </a> 
@@ -17,12 +22,8 @@ By the look of this profile you could clearly say i'm more interested in backend
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/javascript.svg" alt="js" height="40"/> </a>
 </p>
 
-Contact:
-- Mail: programistycznyswir@gmail.com
-- Discord: [FreeDOOM#4231](https://discordapp.com/channels/@FreeDOOM/4231/)
-- Nothing else... _(i'm rather bad at maintaining social accounts...)_
   
-My stats:  
+## My stats:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramistycznySwir)](https://github.com/anuraghazra/github-readme-stats)  
 (credit to: https://github.com/anuraghazra/github-readme-stats)
 <!--
