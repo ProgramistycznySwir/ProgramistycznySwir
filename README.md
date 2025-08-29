@@ -22,10 +22,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/mkrl/misbrands/blob/master/javascript.svg" alt="js" height="40"/> </a>
 </p>
 
-  
-## My stats:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramistycznySwir)](https://github.com/anuraghazra/github-readme-stats)  
-(credit to: https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ProgramistycznySwir/ProgramistycznySwir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
