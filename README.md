@@ -75,6 +75,17 @@
   </tr>
 </table>
 
+<details>
+  <summary><h2>Technologies I also know...</h2></summary>
+
+  - Some of `C/C++`
+  - `MS-SQL` and `SQL-Server`
+  - `Angular 2+` (3 years and counting...)
+  - `Docker` and some of `Google Cloud`
+  - `Blazor`
+  - `Xamarin`
+</details>
+
 <!--
 
 ## Languages and Tools:
