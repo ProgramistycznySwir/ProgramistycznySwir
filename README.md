@@ -25,13 +25,13 @@
     </th>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824">
     </td>
-    <td align="center" width="96">
+    <td align="center" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
     </td>
-    <td align="center" width="96">
+    <td align="center" width="108">
       <img src="https://github.com/user-attachments/assets/9b873794-cb4a-416d-96b2-4bf3139c18d1">
     </td>
   </tr>
