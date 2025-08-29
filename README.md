@@ -10,6 +10,73 @@
 - Discord: **rzuras**
 - Nothing else... _(i'm rather bad at maintaining social accounts...)_
 
+
+## 🛠 My fluency stack
+<table>
+  <tr>
+    <th>
+      C#
+    </th>
+    <th>
+      TS/JS
+    </th>
+    <th>
+      Rust
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824">
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/user-attachments/assets/9b873794-cb4a-416d-96b2-4bf3139c18d1">
+    </td>
+  </tr>
+</table>
+
+## ✨ Technologies I enjoy
+<table>
+  <tr>
+    <th>
+      ASP.NET
+    </th>
+    <th>
+      Vue
+    </th>
+    <th>
+      Bevy
+    </th>
+    <th>
+      Knockout.js
+    </th>
+    <th>
+      MediatR
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="108">
+      <img src="https://logodix.com/logo/1796970.png">
+    </td>
+    <td align="center" width="108">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558">
+    </td>
+    <td align="center" width="108">
+      <img src="https://bevyengine.org/assets/icon.png">
+    </td>
+    <td align="center" width="108">
+      <img src="https://avatars.githubusercontent.com/u/3863375?s=200&v=4">
+    </td>
+    <td align="center" width="108">
+      <img alt="logo-mediatr" src="https://github.com/user-attachments/assets/ce43d234-3da4-4f36-a3ea-6d1c77dd7895" />
+    </td>
+  </tr>
+</table>
+
+<!--
+
 ## Languages and Tools:
 
 <p align="left">
